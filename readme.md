@@ -27,7 +27,7 @@ The analyses rely on data from the Parkinson’s Progression Markers Initiative 
 
 ## Environment and Dependencies
 
-The project was developed using Python 3.10. Key packages include:
+The project was developed using Python 3.12. Key packages include:
 
 - `numpy`, `pandas`, `scikit-learn`
 - `xgboost`, `lightgbm`, `catboost`
