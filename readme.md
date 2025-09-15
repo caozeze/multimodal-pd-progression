@@ -47,13 +47,6 @@ To reproduce the analyses:
 3. Create a Python virtual environment and install dependencies.  
 4. Run the notebooks sequentially from `1_data_mri.ipynb` to `5_model_multitask.ipynb`.
 
-## Citation
-
-If you use or adapt this code, please cite:
-
-Cao, Z. (2025). Exploring Multimodal Data for Disease Progression Prediction. MSc Dissertation, University College London.
-
-
 ---
 
 *Disclaimer: This repository contains academic research code and is intended for reproducibility and educational purposes.*
